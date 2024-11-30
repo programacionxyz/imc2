@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="bmi_result">You BMI is</string>
+</resources>

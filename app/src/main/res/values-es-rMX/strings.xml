@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="height">Altura (m)</string>
+    <string name="calculate">Calcular IMC</string>
+    <string name="bmi_result">Tu IMC es</string>
+</resources>
