@@ -18,6 +18,7 @@ class BMIViewModelTest {
         // Arrange
         bmiViewModel.weight.value = "70"
         bmiViewModel.height.value = "1.75"
+        //bmiViewModel.height.value = "2.0"
         // Act
         bmiViewModel.calculateBMI()
         // Assert
